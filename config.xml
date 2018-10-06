@@ -24,8 +24,7 @@
 	<preference name="FadeSplashScreen"           value="true"/>
 	<preference name="ShowSplashScreenSpinner"    value="false" />
 	<platform name="android">
-    <icon src="Icon.png" />
-    <splash src="Splash.png" />
+    	<icon src="Icon.png" />
 	</platform>
 	
 	<allow-navigation href="https://jidjing.org/*" />
