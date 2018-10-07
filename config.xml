@@ -23,7 +23,7 @@
 	<preference name="SplashMaintainAspectRatio"  value="true" />
 	<preference name="FadeSplashScreen"           value="true"/>
 	<preference name="ShowSplashScreenSpinner"    value="false" />
-	<preference name="errorURL" value="error.html" />
+	<preference name="errorURL" value="file:///android_asset/www/error.html" />
 	<platform name="android">
     	<icon src="Icon.png" />
 	<splash src="Splash.png" />
