@@ -19,7 +19,7 @@
 	<plugin name="cordova-plugin-device" />
 	<preference name="Splash.png"               value="splash" />
 	<preference name="AutoHideSplashScreen"       value="true" />
-	<preference name="SplashScreenDelay"          value="10000" />
+	<preference name="SplashScreenDelay"          value="1000" />
 	<preference name="SplashMaintainAspectRatio"  value="true" />
 	<preference name="FadeSplashScreen"           value="true"/>
 	<preference name="ShowSplashScreenSpinner"    value="false" />
